@@ -1,5 +1,6 @@
 from pathlib import Path
 
+# Speculative museum placard interpreting a 21st-century office stapler.
 PLACARD_LINE = (
     "Stapler, c. 2024 CE. Pressed steel. Ritual binding device: acolytes squeezed its jaws to fuse scrolls into a single offering. Gift of the Accounts Department."
 )
